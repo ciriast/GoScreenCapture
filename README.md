@@ -10,4 +10,4 @@ I tested with a few apps and I didn't get the best results, so I'll try to creat
 
 ## Usage
 
-## Contribution
+## Contributing
